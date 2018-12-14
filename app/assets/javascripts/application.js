@@ -12,5 +12,11 @@
 //
 //= require rails-ujs
 //= require activestorage
-//= require turbolinks
-//= require_tree .
+//= require bootstrap
+//= require bootstrap.bundle
+//= require cable
+//= require clean-blog
+//= require contact_me
+//= require jqBootstrapValidation
+//= require jquery
+//= require jquery.slim
